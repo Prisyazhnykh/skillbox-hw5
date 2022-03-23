@@ -50,14 +50,6 @@ p {
 
 figure {
   padding       : unset;
-  /* font-size  : 0px;
-    border-style: solid;
-    border-width: 0px 1px 1px 1px;
-    color       : #b6b6b6;
-    padding     : 19px 0px;
-    font-weight : 400;
-    font-size   : 14px;
-    text-align  : center; */
 }
 
 figure figcaption {
@@ -72,6 +64,8 @@ figure figcaption {
   font-size       : 14px;
   text-align      : center;
 }
+
+
 
 .grey-image {
   display: block;
@@ -199,6 +193,8 @@ figure figcaption {
   padding: 80px 0;
   width  : 1170px;
 }
+
+
 
 .h1 {
   font-weight   : 400;
